@@ -9,6 +9,7 @@ body {
   width: 220px;
   height: 220px;
   margin: 60px auto;
+  border-radius: 15px;
   box-shadow: 0 0 25px #555;
 
   display: flex;
